@@ -44,7 +44,7 @@ This repository serves as a **step-by-step guide** for installing VMware Worksta
 
 ## 5. Use the Video Tutorial (Optional)
 You can also follow this video walkthrough for downloading VMware, setting up the installer, getting the Kali image, and installing it:
-[::contentReference[oaicite:0]{index=0}](https://www.youtube.com/watch?v=kJkGDO_jkyM&t=164s)
+[Installation Tutorial](https://www.youtube.com/watch?v=kJkGDO_jkyM&t=164s)
 
 
 ---

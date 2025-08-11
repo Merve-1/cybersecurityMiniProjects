@@ -7,7 +7,8 @@ This repository serves as a **step-by-step guide** for installing VMware Worksta
 ## 1. Download VMware
 1. Go to the official VMware download page:  
    👉 https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion  
-2. As shown in the image below (see `images/vmware_download.png` in this repo), click **"Download Now"**.  
+2. As shown in the image below, click **"Download Now"**.
+      <img width="1877" height="895" alt="image" src="https://github.com/user-attachments/assets/41a2d9ad-4ae3-4326-9a55-00ba633b7019" />
 3. You will be redirected to the VMware login page:  
    - If you already have an account → **Sign in**. <img width="1894" height="895" alt="image" src="https://github.com/user-attachments/assets/34fc7da0-66c5-45ba-874c-2d7f809adf85" />
 
@@ -60,11 +61,4 @@ You can also follow this video walkthrough for downloading VMware, setting up th
 
 ---
 
-##  Screenshots
-This repository includes:
-- `images/vmware_download.png` — highlights where to click **“Download Now”**.
-   <img width="1877" height="895" alt="image" src="https://github.com/user-attachments/assets/41a2d9ad-4ae3-4326-9a55-00ba633b7019" />
-- `images/kali_import.png` — shows how to import the Kali image into VMware.
-
----
 

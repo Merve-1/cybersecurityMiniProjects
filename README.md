@@ -22,6 +22,11 @@ This repository serves as a **step-by-step guide** for installing VMware Worksta
 ## 2. Install VMware
 - Run the downloaded installer.  
 - After completion, open VMware Workstation (Windows/Linux) or VMware Fusion (macOS).
+<img width="603" height="476" alt="image" src="https://github.com/user-attachments/assets/4ef90a2a-8b1a-4281-a85a-a55ec0e60bbc" />
+<img width="711" height="564" alt="image" src="https://github.com/user-attachments/assets/a2176cb2-41c7-4cca-bbac-33f94e18a927" />
+<img width="711" height="559" alt="image" src="https://github.com/user-attachments/assets/50a610ab-6d45-4b29-aadb-310117306ef0" />
+
+
 
 ---
 
@@ -38,7 +43,10 @@ This repository serves as a **step-by-step guide** for installing VMware Worksta
 1. Open VMware.  
 2. Navigate to **File → Open**.  
 3. Select the Kali `.iso` file you downloaded.  
-4. Follow the prompts to import the virtual machine.  
+4. Follow the prompts to import the virtual machine.
+<img width="1177" height="593" alt="image" src="https://github.com/user-attachments/assets/0283365c-31d7-47ea-bd7c-4ddf3d9495fb" />
+<img width="1347" height="472" alt="image" src="https://github.com/user-attachments/assets/9747ffcd-beaf-4910-84d0-abe307cc5c6c" />
+
 
 ---
 
@@ -51,7 +59,6 @@ You can also follow this video walkthrough for downloading VMware, setting up th
 
 ## 6. Start Kali & Begin
 - In VMware, select your Kali VM and click **"Power On"**.  
-- Log in using the default credentials provided on the Kali site.  
 - Begin exploring and using hacking tools for legal and ethical purposes only.
 
 ---

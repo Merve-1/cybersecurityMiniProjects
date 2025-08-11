@@ -22,9 +22,8 @@ This repository serves as a **step-by-step guide** for installing VMware Worksta
 ## 2. Install VMware
 - Run the downloaded installer.  
 - After completion, open VMware Workstation (Windows/Linux) or VMware Fusion (macOS).
-<img width="603" height="476" alt="image" src="https://github.com/user-attachments/assets/4ef90a2a-8b1a-4281-a85a-a55ec0e60bbc" />
-<img width="711" height="564" alt="image" src="https://github.com/user-attachments/assets/a2176cb2-41c7-4cca-bbac-33f94e18a927" />
-<img width="711" height="559" alt="image" src="https://github.com/user-attachments/assets/50a610ab-6d45-4b29-aadb-310117306ef0" />
+<img width="1330" height="346" alt="image" src="https://github.com/user-attachments/assets/f5a37d36-beba-40b5-a98e-d0c3a00231f5" />
+
 
 
 
